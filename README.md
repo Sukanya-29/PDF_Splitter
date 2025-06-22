@@ -1,5 +1,5 @@
 # PDF_Splitter <br>
-### This is python code for PDF Splitter. <br>\
+### This is python code for PDF Splitter. <br>
 
 # Usage
 #### 	1. Download the above given "Research.pdf" file. <br>
